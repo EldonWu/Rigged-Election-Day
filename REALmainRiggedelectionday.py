@@ -261,8 +261,7 @@ while not game.over:
 #Level 2
 game.over = False
 hillary.health = 100
-Tvotes = 20
-Cvotes = 0
+Tvotes = 25
 while not game.over:
     game.processInput()
     bk.draw()

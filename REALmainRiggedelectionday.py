@@ -82,9 +82,9 @@ levelfont.moveTo(levelfont.x,50)
     
     game.update(30)'''
 uranus = [] 
-for index in range(50):
+for index in range(100):
     uranus.append(Image("Bullet.png",game))    
-for index in range(50):
+for index in range(100):
     uranus[index].resizeBy(-96)
     x = randint(100,1500)
     y = randint(100,600)
@@ -173,7 +173,7 @@ while not game.over:
     #Don't use Jupiter
 
     #mars and uranus having a blast!
-    for index in range(50):
+    for index in range(100):
         #mars[index].move()
         uranus[index].move()
         '''if mars[index].isOffScreen("bottom") and mars[index].visible:

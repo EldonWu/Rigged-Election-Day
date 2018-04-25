@@ -1,5 +1,5 @@
 # Rigged-Election-Day
-<img src="https://github.com/EldonWu/Rigged-Election-Day/blob/master/CaptureT.PNG" width="200" height="40">
+<img src="https://github.com/EldonWu/Rigged-Election-Day/blob/master/CaptureT.PNG" width="500" height="100">
 <img src="https://github.com/EldonWu/Rigged-Election-Day/blob/master/Capture2.PNG">
 <img src="https://github.com/EldonWu/Rigged-Election-Day/blob/master/Capture4.PNG">
 <img src="https://github.com/EldonWu/Rigged-Election-Day/blob/master/Capture3.PNG">
